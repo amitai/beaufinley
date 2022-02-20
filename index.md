@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Meet Beau
 
-You can use the [editor on GitHub](https://github.com/amitai/beaufinley/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Beau is a lifelong Democrat with more than a decade of public service. He currently works as a telecom attorney and serves as the Advisory Neighborhood Commissioner for 3C04 in Cleveland Park. Beau co-founded Flip Virginia, a coalition of DC-based resistance groups focused on flipping the Virginia House of Delegates blue. He also co-chaired the Ward 3 Democratic Committee’s Virginia Task Force, which helped elect 6 Democrats in 2017.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Issues
 
-### Markdown
+### Fix the Affordable Housing Crisis
+We have an affordable housing crisis in Washington.  Rapidly rising rents are pushing many low-income and fixed-income residents out of the District.  As our city’s population moves toward 1 million people, we must make sure that there is enough low-income housing and workforce housing for all.  The District is not the only city facing an affordable housing crisis, but our needs are acute.  The DC Democratic State Committee must serve as policy clearinghouse, finding ideas that work elsewhere, analyzing whether they will work in the District, and then, most importantly, pushing these ideas to the Mayor and to the Council.  All four of us on the Ward 3 Blue Wave slate have worked to ensure that there is fair and equitable housing for all.  We are committed to holding our elected leaders to their promises while finding and supporting affordable housing solutions that work.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Issue 2
+xxxx
 
-```markdown
-Syntax highlighted code block
+### Issue 3 
+xxxxxx
 
-# Header 1
-## Header 2
-### Header 3
+## Support or Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amitai/beaufinley/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Contact Beau at: 
